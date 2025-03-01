@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Choose to switch either 1 or 2 to turn on LED
 
 ## How to test
 
-Explain how to use your project
-
+Switch 1 OR 2 too turn on LED
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED
